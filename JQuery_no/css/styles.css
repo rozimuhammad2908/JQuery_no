@@ -1,0 +1,10 @@
+.container {
+  width: 1400px;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  font-family: "Orbition", sans-serif;
+}
